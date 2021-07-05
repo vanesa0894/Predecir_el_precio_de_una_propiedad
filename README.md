@@ -30,6 +30,7 @@ PARTE B - Modelos Avanzados
 Elige dos de los modelos avanzados vistos Compara con el desempeño obtenido en el proyecto 01 (en el caso de regresión, considera una regresión lineal con atributos polinómicos y regularización). Entrénalos y evalúalos con sus argumentos por defecto. No te olvides de hacer un train/test split y usar Validación Cruzada.
 Optimiza sus hiperparámetros mediante Validación Cruzada y Grid Search o Random Search.
 Compara el desempeño de los nuevos modelos entre sí y con el modelo de la Parte A. ¿Cuál elegirías? Justifica.
+
 PARTE C - Interpretación de modelos
 
 De acuerdo a lo que el modelo permite, responde algunas o todas las siguientes preguntas:
