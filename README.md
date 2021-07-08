@@ -1,5 +1,5 @@
 # Predecir_el_precio_de_una_propiedad_Proyecto_2
-En este repositorio podrás encontrar un Proyecto Académico desarrollado durante la carrera como Data Science en Acámica.
+En este repositorio podrás encontrar una segunda iteración del Proyecto Académico desarrollado durante la carrera como Data Science en Acámica.
 
 ## Objetivo
 Crear un modelo Machine Learning que, dadas ciertas características de la propiedad, prediga su precio de venta.
